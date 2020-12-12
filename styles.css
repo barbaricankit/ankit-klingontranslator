@@ -1,0 +1,54 @@
+body,html{
+    height: 100%;
+    margin: 0;
+}
+body{
+    background-image: url("https://mephitjamesblog.files.wordpress.com/2018/03/star-trek-beta-quadrant-klingon-raiding-party.png");
+    /* background-color: ; */
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+    /* background-position: ; */
+   
+}
+h1{
+
+    color:red;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+div{
+    text-align: center;
+    height: 70%;
+}
+textarea{
+    display: block;
+    margin:2.5rem auto;
+    width:70%;
+    height:30%;
+    background-color: rgba(255, 127, 80, 0.445);
+    font-weight:bolder;
+    font-size: x-large;
+    font-style: italic;
+    padding:0.5rem;
+}
+::placeholder{
+    color:black;
+}
+button{
+    background-color: rgba(139, 0, 0, 0.596);
+    width:30%;
+    height:8%;
+    font-weight:bolder;
+    font-size: larger;
+    font-style: italic;
+}
+footer{
+    margin-bottom: 0;
+    background-color: rgba(218, 26, 64, 0.753);
+}
+h3{
+    padding: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
